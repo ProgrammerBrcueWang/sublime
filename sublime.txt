@@ -1,0 +1,6 @@
+1.按住Ctrl+Shifp+p,出现一个框，在框里输入“view:”，出现了如下界面：
+
+2.选择：“View:Toggle Menu”即可，Ok，大功告成，菜单栏终于又回来了！
+
+3、使用sublime编译c语言
+https://blog.csdn.net/DragonFreedom/article/details/70159891
