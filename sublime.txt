@@ -1,6 +1,14 @@
-1.°´×¡Ctrl+Shifp+p,³öÏÖÒ»¸ö¿ò£¬ÔÚ¿òÀïÊäÈë¡°view:¡±£¬³öÏÖÁËÈçÏÂ½çÃæ£º
+1.æŒ‰ä½Ctrl+Shifp+p,å‡ºç°ä¸€ä¸ªæ¡†ï¼Œåœ¨æ¡†é‡Œè¾“å…¥â€œview:â€ï¼Œå‡ºç°äº†å¦‚ä¸‹ç•Œé¢ï¼š
 
-2.Ñ¡Ôñ£º¡°View:Toggle Menu¡±¼´¿É£¬Ok£¬´ó¹¦¸æ³É£¬²Ëµ¥À¸ÖÕÓÚÓÖ»ØÀ´ÁË£¡
+2.é€‰æ‹©ï¼šâ€œView:Toggle Menuâ€å³å¯ï¼ŒOkï¼Œå¤§åŠŸå‘Šæˆï¼Œèœå•æ ç»ˆäºåˆå›æ¥äº†ï¼
 
-3¡¢Ê¹ÓÃsublime±àÒëcÓïÑÔ
+3ã€ä½¿ç”¨sublimeç¼–è¯‘cè¯­è¨€
 https://blog.csdn.net/DragonFreedom/article/details/70159891
+
+4ã€https://blog.csdn.net/mahoon411/article/details/80639056
+
+sublimeçš„å„ç§è£…å¤‡
+
+5ã€https://blog.csdn.net/baynkbtg/article/details/72834367
+
+å­—ä½“çš„è®¾ç½®
